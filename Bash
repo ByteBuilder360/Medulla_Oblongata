@@ -1,3 +1,4 @@
+#New git repository initialization
 git init
 
 git add .
